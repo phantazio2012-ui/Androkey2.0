@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Corps du clavier -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M27,38h54a5,5 0 0 1 5,5v22a5,5 0 0 1 -5,5h-54a5,5 0 0 1 -5,-5v-22a5,5 0 0 1 5,-5z" />
+    <!-- Touches -->
+    <path android:fillColor="#1E5FD1"
+        android:pathData="M30,42h6v6h-6zM39,42h6v6h-6zM48,42h6v6h-6zM57,42h6v6h-6zM66,42h6v6h-6zM75,42h3v6h-3zM30,51h6v6h-6zM39,51h6v6h-6zM48,51h6v6h-6zM57,51h6v6h-6zM66,51h12v6h-12zM36,60h36v6h-36z" />
+</vector>
